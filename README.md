@@ -12,10 +12,10 @@ All the datasets used and saved models are available [here.](https://drive.googl
 <br> 
 For each code/notebook install any missing dependencies using 'pip install package'.
 <br>
-For K-Means notebook:
+For K-Means notebook: <br>
 Open notebook and execute run all.
 
-For SVM notebook:
+For SVM notebook: <br>
 Open notebook and execute run all.
 
 For Segmentation run the following command from root directory of repository/ <br>
