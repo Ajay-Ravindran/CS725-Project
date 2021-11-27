@@ -26,4 +26,16 @@ python code/.....
 
 References:
 1. https://datascience.stackexchange.com/questions/31746/how-to-include-labels-in-sns-heatmap
-2. 
+2. https://analyticsindiamag.com/hands-on-tutorial-on-mean-shift-clustering-algorithm/
+3. https://www.analyticsvidhya.com/blog/2021/06/k-means-clustering-and-transfer-learning-for-image-classification/
+4. https://www.kaggle.com/oossiiris/k-means-transfer-learning-for-image-classification/notebook?scriptVersionId=66433204
+5. https://paperswithcode.com/method/u-net#
+6. https://paperswithcode.com/method/resnet
+7. https://iconof.com/1cycle-learning-rate-policy/
+8. https://course.fast.ai/videos/?lesson=6
+9. https://towardsdatascience.com/u-net-for-semantic-segmentation-on-unbalanced-aerial-imagery-3474fa1d3e56
+10. https://baratam-tarunkumar.medium.com/land-cover-classification-with-u-net-aa618ea64a1b
+11. https://www.programcreek.com/python/example/105803/tifffile.imread
+12. https://stackabuse.com/implementing-svm-and-kernel-svm-with-pythons-scikit-learn/
+13. https://www.datacamp.com/community/tutorials/svm-classification-scikit-learn-python
+
