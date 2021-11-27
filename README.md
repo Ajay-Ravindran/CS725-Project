@@ -11,7 +11,7 @@ All the datasets used and saved models are available [here.](https://drive.googl
 
 <br> 
 For each code/notebook install any missing dependencies using 'pip install package'.
-<br>
+<br><br>
 For K-Means notebook: <br>
 Open notebook and execute run all.
 <br><br>
@@ -23,7 +23,7 @@ python code/segmentaion.py
 <br><br>
 For Neural Network run the following command from root directory of repository/ <br>
 python code/.....
-
+<br><br>
 References:
 1. https://datascience.stackexchange.com/questions/31746/how-to-include-labels-in-sns-heatmap
 2. https://analyticsindiamag.com/hands-on-tutorial-on-mean-shift-clustering-algorithm/
