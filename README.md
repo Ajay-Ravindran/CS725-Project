@@ -21,8 +21,13 @@ Open notebook and execute run all.
 For Segmentation run the following command from root directory of repository/ <br>
 python code/segmentaion.py
 <br><br>
-For Neural Network run the following command from root directory of repository/ <br>
-python code/.....
+For semantic segmentation with Unet run the following command from root directory of repository/ <br>
+python code/landuse.py
+<br><br>
+
+For Multiclass Labelling using Resnet:<br>
+Open notebook and execute run all.
+
 <br><br>
 
 References:
