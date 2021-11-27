@@ -14,13 +14,13 @@ For each code/notebook install any missing dependencies using 'pip install packa
 <br>
 For K-Means notebook: <br>
 Open notebook and execute run all.
-
+<br><br>
 For SVM notebook: <br>
 Open notebook and execute run all.
-
+<br><br>
 For Segmentation run the following command from root directory of repository/ <br>
 python code/segmentaion.py
-
+<br><br>
 For Neural Network run the following command from root directory of repository/ <br>
 python code/.....
 
