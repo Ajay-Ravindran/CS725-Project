@@ -44,5 +44,6 @@ References:
 11. https://www.programcreek.com/python/example/105803/tifffile.imread
 12. https://stackabuse.com/implementing-svm-and-kernel-svm-with-pythons-scikit-learn/
 13. https://www.datacamp.com/community/tutorials/svm-classification-scikit-learn-python
-
 14. https://www.youtube.com/watch?v=jvZm8REF2KY
+15. https://sentinels.copernicus.eu/web/sentinel/user-guides/sentinel-2-msi/resolutions/spatial
+16. https://www.sciencedirect.com/science/article/pii/S2666285X21000029
