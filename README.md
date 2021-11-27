@@ -18,10 +18,10 @@ Open notebook and execute run all.
 For SVM notebook:
 Open notebook and execute run all.
 
-For Segmentation run the following command from root directory of repository/
+For Segmentation run the following command from root directory of repository/ <br>
 python code/segmentaion.py
 
-For Neural Network run the following command from root directory of repository/
+For Neural Network run the following command from root directory of repository/ <br>
 python code/.....
 
 References:
